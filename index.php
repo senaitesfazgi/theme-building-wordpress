@@ -1,11 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Class theme</title>
-</head>
-<body>
-    <h1>Hello World!</h1>
-</body>
-</html>
+<?php 
+get_header();
+?>
+
+<p>Hello World!</p>
+
+<?php 
+get_footer();
